@@ -1,0 +1,24 @@
+1.此版本修改excel中的param，如果param里面的参数重复重现，那么新建一个excel表单，用变量来替换
+方便维护测试用例
+
+需要修改ExcelUtil中的load方法中的下列代码，需要加一个elseif
+ //判断对象是哪一个类的对象，并通过判断放入到对应的List对象中
+                if(obj instanceof Case){//instanceof  是判断对象类型的语法
+                    Case cs= (Case) obj;
+                    CaseUtil.cases.add(cs);
+
+                }else if (obj instanceof Rest){
+                    Rest rest= (Rest) obj;
+                    RestUtil.rests.add(rest);
+
+需要修改所有的excel路径，因为测试用例变为testcase_V8.xlsx
+
+修改ExcelUtil类，解决表单类型耦合问题
+
+替换参数
+
+提取excelpath到配置文件
+
+泛型，修改excel里面的load方法，泛型，那个类调用这个方法，就是那个类的类型
+        List<Case> list=ExcelUtil.load(PropertiesUtil.getExcelPath(),"register", Case.class);
+

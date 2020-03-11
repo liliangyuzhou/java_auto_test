@@ -1,0 +1,129 @@
+2020-03-09 19:17:32  [ main:1 ] - [ INFO ]  替换掉paramter中的变量
+2020-03-09 19:17:37  [ main:5301 ] - [ INFO ]  URL获取
+2020-03-09 19:17:37  [ main:5342 ] - [ INFO ]  type获取
+2020-03-09 19:17:38  [ main:5829 ] - [ INFO ]  替换掉paramter中的变量
+2020-03-09 19:17:38  [ main:5829 ] - [ INFO ]  URL获取
+2020-03-09 19:17:38  [ main:5830 ] - [ INFO ]  type获取
+2020-03-09 19:17:38  [ main:5983 ] - [ INFO ]  替换掉paramter中的变量
+2020-03-09 19:17:38  [ main:5984 ] - [ INFO ]  URL获取
+2020-03-09 19:17:38  [ main:5984 ] - [ INFO ]  type获取
+2020-03-09 19:17:38  [ main:6243 ] - [ INFO ]  替换掉paramter中的变量
+2020-03-09 19:17:38  [ main:6243 ] - [ INFO ]  URL获取
+2020-03-09 19:17:38  [ main:6244 ] - [ INFO ]  type获取
+2020-03-09 19:17:39  [ main:6996 ] - [ INFO ]  替换掉paramter中的变量
+2020-03-09 19:17:39  [ main:6996 ] - [ INFO ]  URL获取
+2020-03-09 19:17:39  [ main:6997 ] - [ INFO ]  type获取
+2020-03-09 19:17:40  [ main:7641 ] - [ INFO ]  替换掉paramter中的变量
+2020-03-09 19:17:40  [ main:7643 ] - [ INFO ]  URL获取
+2020-03-09 19:17:40  [ main:7645 ] - [ INFO ]  type获取
+2020-03-09 19:17:40  [ main:7720 ] - [ INFO ]  替换掉paramter中的变量
+2020-03-09 19:17:40  [ main:7721 ] - [ INFO ]  URL获取
+2020-03-09 19:17:40  [ main:7721 ] - [ INFO ]  type获取
+2020-03-09 19:17:40  [ main:7797 ] - [ INFO ]  替换掉paramter中的变量
+2020-03-09 19:17:40  [ main:7798 ] - [ INFO ]  URL获取
+2020-03-09 19:17:40  [ main:7798 ] - [ INFO ]  type获取
+2020-03-09 19:17:40  [ main:7871 ] - [ INFO ]  替换掉paramter中的变量
+2020-03-09 19:17:40  [ main:7872 ] - [ INFO ]  URL获取
+2020-03-09 19:17:40  [ main:7872 ] - [ INFO ]  type获取
+2020-03-09 19:17:40  [ main:7944 ] - [ INFO ]  替换掉paramter中的变量
+2020-03-09 19:17:40  [ main:7944 ] - [ INFO ]  URL获取
+2020-03-09 19:17:40  [ main:7945 ] - [ INFO ]  type获取
+2020-03-09 19:17:40  [ main:8015 ] - [ INFO ]  替换掉paramter中的变量
+2020-03-09 19:17:40  [ main:8016 ] - [ INFO ]  URL获取
+2020-03-09 19:17:40  [ main:8016 ] - [ INFO ]  type获取
+2020-03-09 19:17:40  [ main:8092 ] - [ INFO ]  替换掉paramter中的变量
+2020-03-09 19:17:40  [ main:8092 ] - [ INFO ]  URL获取
+2020-03-09 19:17:40  [ main:8092 ] - [ INFO ]  type获取
+2020-03-09 19:17:40  [ main:8162 ] - [ INFO ]  替换掉paramter中的变量
+2020-03-09 19:17:40  [ main:8163 ] - [ INFO ]  URL获取
+2020-03-09 19:17:40  [ main:8164 ] - [ INFO ]  type获取
+2020-03-09 19:17:47  [ main:14838 ] - [ INFO ]  替换掉paramter中的变量
+2020-03-09 19:17:47  [ main:14839 ] - [ INFO ]  URL获取
+2020-03-09 19:17:47  [ main:14840 ] - [ INFO ]  type获取
+2020-03-09 19:17:54  [ main:21403 ] - [ INFO ]  批量回写数据到excel中
+[2020-03-09 19:36:056][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] 替换掉paramter中的变量
+[2020-03-09 19:37:000][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] URL获取
+[2020-03-09 19:37:000][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] type获取
+[2020-03-09 19:37:001][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] 替换掉paramter中的变量
+[2020-03-09 19:37:001][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] URL获取
+[2020-03-09 19:37:001][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] type获取
+[2020-03-09 19:37:001][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] 替换掉paramter中的变量
+[2020-03-09 19:37:001][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] URL获取
+[2020-03-09 19:37:001][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] type获取
+[2020-03-09 19:37:001][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] 替换掉paramter中的变量
+[2020-03-09 19:37:001][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] URL获取
+[2020-03-09 19:37:001][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] type获取
+[2020-03-09 19:37:002][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] 替换掉paramter中的变量
+[2020-03-09 19:37:002][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] URL获取
+[2020-03-09 19:37:002][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] type获取
+[2020-03-09 19:37:002][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] 替换掉paramter中的变量
+[2020-03-09 19:37:002][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] URL获取
+[2020-03-09 19:37:002][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] type获取
+[2020-03-09 19:37:002][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] 替换掉paramter中的变量
+[2020-03-09 19:37:002][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] URL获取
+[2020-03-09 19:37:002][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] type获取
+[2020-03-09 19:37:002][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] 替换掉paramter中的变量
+[2020-03-09 19:37:002][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] URL获取
+[2020-03-09 19:37:002][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] type获取
+[2020-03-09 19:37:003][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] 替换掉paramter中的变量
+[2020-03-09 19:37:003][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] URL获取
+[2020-03-09 19:37:003][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] type获取
+[2020-03-09 19:37:003][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] 替换掉paramter中的变量
+[2020-03-09 19:37:003][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] URL获取
+[2020-03-09 19:37:003][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] type获取
+[2020-03-09 19:37:003][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] 替换掉paramter中的变量
+[2020-03-09 19:37:003][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] URL获取
+[2020-03-09 19:37:003][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] type获取
+[2020-03-09 19:37:003][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] 替换掉paramter中的变量
+[2020-03-09 19:37:003][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] URL获取
+[2020-03-09 19:37:003][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] type获取
+[2020-03-09 19:37:003][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] 替换掉paramter中的变量
+[2020-03-09 19:37:003][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] URL获取
+[2020-03-09 19:37:003][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] type获取
+[2020-03-09 19:37:004][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] 替换掉paramter中的变量
+[2020-03-09 19:37:004][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] URL获取
+[2020-03-09 19:37:004][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] type获取
+[2020-03-09 19:37:005][INFO][com.lemon.api.auto10.TestCases.BaseProcessor] 批量回写数据到excel中
+[2020-03-09 19:40:044][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:35-- 替换掉paramter中的变量
+[2020-03-09 19:40:049][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:40-- URL获取
+[2020-03-09 19:40:049][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:44-- type获取
+[2020-03-09 19:40:050][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:35-- 替换掉paramter中的变量
+[2020-03-09 19:40:050][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:40-- URL获取
+[2020-03-09 19:40:050][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:44-- type获取
+[2020-03-09 19:40:050][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:35-- 替换掉paramter中的变量
+[2020-03-09 19:40:050][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:40-- URL获取
+[2020-03-09 19:40:050][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:44-- type获取
+[2020-03-09 19:40:050][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:35-- 替换掉paramter中的变量
+[2020-03-09 19:40:050][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:40-- URL获取
+[2020-03-09 19:40:050][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:44-- type获取
+[2020-03-09 19:40:054][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:35-- 替换掉paramter中的变量
+[2020-03-09 19:40:054][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:40-- URL获取
+[2020-03-09 19:40:054][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:44-- type获取
+[2020-03-09 19:40:056][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:35-- 替换掉paramter中的变量
+[2020-03-09 19:40:056][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:40-- URL获取
+[2020-03-09 19:40:056][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:44-- type获取
+[2020-03-09 19:40:056][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:35-- 替换掉paramter中的变量
+[2020-03-09 19:40:056][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:40-- URL获取
+[2020-03-09 19:40:056][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:44-- type获取
+[2020-03-09 19:40:056][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:35-- 替换掉paramter中的变量
+[2020-03-09 19:40:056][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:40-- URL获取
+[2020-03-09 19:40:056][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:44-- type获取
+[2020-03-09 19:40:056][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:35-- 替换掉paramter中的变量
+[2020-03-09 19:40:056][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:40-- URL获取
+[2020-03-09 19:40:056][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:44-- type获取
+[2020-03-09 19:40:056][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:35-- 替换掉paramter中的变量
+[2020-03-09 19:40:056][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:40-- URL获取
+[2020-03-09 19:40:056][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:44-- type获取
+[2020-03-09 19:40:057][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:35-- 替换掉paramter中的变量
+[2020-03-09 19:40:057][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:40-- URL获取
+[2020-03-09 19:40:057][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:44-- type获取
+[2020-03-09 19:40:057][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:35-- 替换掉paramter中的变量
+[2020-03-09 19:40:057][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:40-- URL获取
+[2020-03-09 19:40:057][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:44-- type获取
+[2020-03-09 19:40:057][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:35-- 替换掉paramter中的变量
+[2020-03-09 19:40:057][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:40-- URL获取
+[2020-03-09 19:40:057][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:44-- type获取
+[2020-03-09 19:40:058][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:35-- 替换掉paramter中的变量
+[2020-03-09 19:40:058][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:40-- URL获取
+[2020-03-09 19:40:058][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:44-- type获取
+[2020-03-09 19:41:000][INFO][com.lemon.api.auto10.TestCases.BaseProcessor]:76-- 批量回写数据到excel中

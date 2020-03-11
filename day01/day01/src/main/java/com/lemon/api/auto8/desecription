@@ -1,0 +1,11 @@
+1.此版本excel中新增四列
+//    PrevalidateSql(接口执行前接口验证)	PrevalidateResult(接口执行前数据库验证结果)	AftervalidateSql(口执行后接口验证)	AftervalidateResult(接口执行后数据库验证结果)
+
+来完成接口调用后数据库层面数据验证
+
+
+excel文档设计变动，首先要修改Case类。
+
+所以相比上一版本的测试用例，含有sql验证的测试用例需要在数据提供者中添加,"PrevalidateSql","AftervalidateSql"
+这两个字段。拿到接口调用前后的sql。进行数据验证
+
